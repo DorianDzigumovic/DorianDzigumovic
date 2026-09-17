@@ -43,7 +43,7 @@
   <tr>
     <td colspan="2" valign="top">
       <h3>📁 Featured Repositories</h3>
-      <p>Here are a couple of my small personal projects. Click the cards to check out the code!</p>
+      <p>Here are a couple of my projects. Click the cards to check out the code!</p>
       <table border="0" width="100%">
         <tr>
           <td>
