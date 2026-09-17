@@ -3,7 +3,7 @@
     <td width="60%" valign="top">
       <br>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&width=435&lines=Dorian+Dzigumoivc;3rd+Year+Student;Software+Developer" alt="Typing Effect" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&width=435&lines=Dorian+Dzigumovic;3rd+Year+Student;Software+Developer" alt="Typing Effect" />
       </a>
       <h3>About Me</h3>
       <p>I am a 3rd year student in <a href="https://www.tudublin.ie/">TU Dublin Grangegorman</a> looking for an <b>internship</b>.</p>
