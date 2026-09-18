@@ -47,13 +47,13 @@
       <table border="0" width="100%">
         <tr>
           <td>
-            <a href="https://github.com/DorianDzigumovic/Long_Division_C" target="_blank">
-              <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DorianDzigumovic&repo=Long_Division_C&theme=tokyonight&show_owner=false" width="350"/>
+            <a href="https://github.com/DorianDzigumovic/WebDev_Library" target="_blank">
+              <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DorianDzigumovic&repo=WebDev_Library&theme=tokyonight&show_owner=false" width="350"/>
             </a>
           </td>
           <td>
-            <a href="https://github.com/DorianDzigumovic/WebDev_Project_ArchiCode" target="_blank">
-              <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DorianDzigumovic&repo=WebDev_Project_ArchiCode&theme=tokyonight&show_owner=false" width="350"/>
+            <a href="https://github.com/DorianDzigumovic/Long_Division_C" target="_blank">
+              <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DorianDzigumovic&repo=Long_Division_C&theme=tokyonight&show_owner=false" width="350"/>
             </a>
           </td>
         </tr>
