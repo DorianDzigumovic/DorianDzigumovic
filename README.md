@@ -7,7 +7,7 @@
       </a>
       <h3>About Me</h3>
       <p>I am a 3rd year student in <a href="https://www.tudublin.ie/">TU Dublin Grangegorman</a> looking for an <b>internship</b>.</p>
-      <p>I love low level languages like C, data communications, and databases.</p>
+      <p>I love data communications, website development, and databases.</p>
       <h3>Languages</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"> 
