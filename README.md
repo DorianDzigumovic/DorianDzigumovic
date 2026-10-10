@@ -69,12 +69,12 @@
         <tr>
           <td align="center">
             <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-              <img src="https://github-readme-stats-fast.vercel.app/api?username=DorianDzigumovic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+              <img src="https://github-stats-extended.vercel.app/api?username=DorianDzigumovic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
             </a>
           </td>
           <td align="center">
             <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-              <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DorianDzigumovic&layout=compact&theme=tokyonight&hide_border=true&card_width=300" width="300" />
+              <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DorianDzigumovic&layout=compact&theme=tokyonight&hide_border=true&card_width=300" width="300" />
             </a>
           </td>
         </tr>
